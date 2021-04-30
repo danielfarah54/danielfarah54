@@ -5,6 +5,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=16"/>
 </div>
+<div></div>
 
 <!--
 [![danielfarah54's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/danielfarah54/)
