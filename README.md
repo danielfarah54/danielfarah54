@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Daniel Farah
 <div>
   <a href="https://github.com/danielfarah54" style="display:inline-block">
-    <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
   <a href="https://github.com/danielfarah54" style="display:inline-block">
-    <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=16"/>
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=16"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
