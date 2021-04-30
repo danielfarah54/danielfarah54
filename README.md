@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Daniel Farah
 <div>
   <a href="https://github.com/danielfarah54">
-    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=blue-green&include_all_commits=true"/>
-    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=blue-green&langs_count=16"/>
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="df-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
