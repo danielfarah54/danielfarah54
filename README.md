@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Daniel Farah
-
 <div>
   <a href="https://github.com/danielfarah54" style="display:inline-block">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
