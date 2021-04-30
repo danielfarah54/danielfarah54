@@ -1,10 +1,17 @@
-### Hi there 👋
+## Olá! Eu sou o Daniel Farah
 
+<div>
+  <a href="https://github.com/danielfarah54"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=16"/>
+</div>
+
+<!--
 [![danielfarah54's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/danielfarah54/)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=8)](https://github.com/danielfarah54/)
 
-<!--
+
 **danielfarah54/danielfarah54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
