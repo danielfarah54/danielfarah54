@@ -1,6 +1,12 @@
 ## Olá! Eu sou o Daniel Farah
 
-<div style="display: inline">
+<style>
+  div a {
+    display:inline-block;
+  }
+</style>
+
+<div>
   <a href="https://github.com/danielfarah54">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
