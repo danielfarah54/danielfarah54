@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Farah
 <div>
   <a href="https://github.com/danielfarah54" style="display:inline-block">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
   <a href="https://github.com/danielfarah54" style="display:inline-block">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=dark&langs_count=16"/>
@@ -13,7 +13,6 @@
   <img align="center" alt="df-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="df-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="df-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 <!--
