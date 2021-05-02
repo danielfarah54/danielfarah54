@@ -5,11 +5,11 @@
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
 </div>
 <div style="display: inline_block"><br>
-  <code><img align="center" alt="df-c" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img align="center" alt="df-java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img align="center" alt="df-js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img align="center" alt="df-py" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img align="center" alt="df-cpp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img align="center" alt="df-c" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img align="center" alt="df-java" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img align="center" alt="df-js" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img align="center" alt="df-py" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img align="center" alt="df-cpp" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 </div>
 
 ##
