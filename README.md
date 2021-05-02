@@ -3,8 +3,8 @@
   <a href="https://github.com/danielfarah54">
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
-</div>
-*NOTA: Most Used Languages não indica meu nível de habilidade ou algo do tipo, é apenas uma métrica das linguagens que eu mais usei no GitHub, é uma feature do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+</div><br>
+_NOTA: Most Used Languages não indica meu nível de habilidade ou algo do tipo, é apenas uma métrica das linguagens que eu mais usei no GitHub, é uma feature do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 <div style="display: inline_block"><br>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
