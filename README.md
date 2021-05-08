@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Farah
 
-*NOTA: Most Used Languages não indica meu nível de habilidade ou algo do tipo, é apenas uma métrica das linguagens que eu mais usei no GitHub, é uma feature do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTA: Most Used Languages não indica o nível de habilidade ou algo do tipo, é apenas uma métrica das linguagens mais usadas no GitHub, é uma feature do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <div>
   <a href="https://github.com/danielfarah54">
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>
