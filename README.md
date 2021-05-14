@@ -7,11 +7,11 @@
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
 </div><br>
 <div style="display: inline_block"><br>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img height="30" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 </div>
 
 ##
