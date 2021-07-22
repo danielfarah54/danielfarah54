@@ -1,12 +1,13 @@
 ## Olá! Eu sou o Daniel Farah
 
-*NOTA: Most Used Languages não indica o nível de habilidade ou algo do tipo, é apenas uma métrica das linguagens mais usadas no GitHub, é uma feature do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <div>
   <a href="https://github.com/danielfarah54">
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>
     <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
-</div><br>
-<div style="display: inline_block"><br>
+</div>
+<br>
+<div style="display: inline_block">
+  <br>
   <code><img height="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img height="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img height="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -17,8 +18,8 @@
 ##
 
 <div>
-  <a href = "mailto: danielfarah54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielfarah54" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: danielfarah54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danielfarah54" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <!--
