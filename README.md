@@ -10,7 +10,7 @@
   <br>
       <code><img height="30" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
     <code><img height="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="30" title="Nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
   <code><img height="30" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
   <code><img height="30" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
 </div>
