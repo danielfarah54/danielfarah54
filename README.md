@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/danielfarah54">
-    <img align="center" height="157em" src="https://github-readme-stats-inky-two-92.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"/>
-    <img align="center" height="157em" src="https://github-readme-stats-inky-two-92.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=8"/>
+    <img align="center" height="157em" src="https://github-readme-stats-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"/>
+    <img align="center" height="157em" src="https://github-readme-stats-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=8"/>
 </div>
 <br>
 <div style="display: inline_block">
