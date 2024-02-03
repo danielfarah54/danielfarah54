@@ -1,6 +1,6 @@
 ## Hello there!
 
-<div style="display: flex; justify-content: space-evenly">
+<div style="display: flex; justify-content: center">
   <div>
     <a href="https://github.com/danielfarah54">
       <img
