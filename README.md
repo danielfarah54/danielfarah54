@@ -12,7 +12,7 @@
     <img
       align="center"
       height="157em"
-      src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=8"
+      src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
     />
   </a>
 </div>
