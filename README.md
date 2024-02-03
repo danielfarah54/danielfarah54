@@ -1,9 +1,24 @@
 ## Hello there!
 
-<div>
-  <a href="https://github.com/danielfarah54">
-    <img align="center" height="157em" src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"/>
-<!--     <img align="center" height="157em" src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=8"/> -->
+<div style="display: flex; justify-content: space-evenly">
+  <div>
+    <a href="https://github.com/danielfarah54">
+      <img
+        align="center"
+        height="157em"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
+      />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/danielfarah54">
+      <img
+        align="center"
+        height="157em"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=8"
+      />
+    </a>
+  </div>
 </div>
 <br>
 <div style="display: inline_block">
