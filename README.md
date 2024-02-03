@@ -1,6 +1,6 @@
 ## Hello there!
 
-<div>
+<div align="center">
   <a href="https://github.com/danielfarah54">
     <img
       align="center"
