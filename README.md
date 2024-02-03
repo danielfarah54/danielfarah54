@@ -1,6 +1,6 @@
 ## Hello there!
 
-<div style="display: flex; justify-content: space-evenly; border: 1px solid white">
+<div">
   <a href="https://github.com/danielfarah54">
     <img
       align="center"
