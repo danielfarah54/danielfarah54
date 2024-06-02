@@ -1,7 +1,7 @@
 ## Hello there!
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/danielfarah54">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/danielfarah54">
