@@ -1,11 +1,11 @@
 ## Hello there!
 <div style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
-  <div>
+  <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
     </a>
   </div>
-  <div style="display: inline_block">
+  <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
       <img
         align="center"
@@ -13,6 +13,8 @@
         src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
       />
     </a>
+  </div>
+  <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
       <img
         align="center"
