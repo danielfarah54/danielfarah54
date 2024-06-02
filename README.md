@@ -5,6 +5,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazonwebservices)
 ![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
+![GitHub](https://img.shields.io/badge/-GitHub-161b22?logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-white?logo=bitbucket&logoColor=0d62dd)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=fafafa)
 ![Prisma](https://img.shields.io/badge/-Prisma-090a15?logo=prisma)
 ![MySQL](https://img.shields.io/badge/-MySQL-dfdfdf?logo=mysql)
