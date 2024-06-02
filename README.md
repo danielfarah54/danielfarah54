@@ -1,23 +1,24 @@
 ## Hello there!
-
-<div align="center">
-  <a href="https://github.com/danielfarah54">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/danielfarah54">
-    <img
-      align="center"
-      height="157em"
-      src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
-    />
-  </a>
-  <a href="https://github.com/danielfarah54">
-    <img
-      align="center"
-      height="157em"
-      src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
-    />
-  </a>
+<div style="display: flex; flex-wrap: wrap;">
+  <div align="center">
+    <a href="https://github.com/danielfarah54">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/danielfarah54">
+      <img
+        align="center"
+        height="157em"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
+      />
+    </a>
+    <a href="https://github.com/danielfarah54">
+      <img
+        align="center"
+        height="157em"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
+      />
+    </a>
+  </div>
 </div>
 
 <br>
