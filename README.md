@@ -1,6 +1,6 @@
 ## Hello there!
-<div style="display: flex; flex-wrap: wrap;">
-  <div align="center">
+<div style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
+  <div>
     <a href="https://github.com/danielfarah54">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
     </a>
