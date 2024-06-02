@@ -1,5 +1,5 @@
 ## Hello there!
-<div align="center" style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
+<!-- <div align="center" style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
   <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
       <img
@@ -23,7 +23,13 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak"  />
     </a>
   </div>
-</div>
+</div> -->
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=6&hide=C">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni">
+</p>
 
 <br>
 <div style="display: inline_block">
