@@ -7,32 +7,6 @@
 ![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=fafafa)
 
-<!-- <div align="center" style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
-  <div style="display: inline_block; margin-left: auto; margin-right: auto">
-    <a href="https://github.com/danielfarah54">
-      <img
-        align="center"
-        height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni" 
-      />
-    </a>
-  </div>
-  <div style="display: inline_block; margin-left: auto; margin-right: auto">
-    <a href="https://github.com/danielfarah54">
-      <img
-        align="center"
-        height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
-      />
-    </a>
-  </div>
-  <div style="display: inline_block; margin-left: auto; margin-right: auto">
-    <a href="https://github.com/danielfarah54">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak"  />
-    </a>
-  </div>
-</div> -->
-
 <a href="https://github.com/danielfarah54">
   <p align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni">
@@ -40,16 +14,6 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni">
   </p>
 </a>
-
-<br>
-<div style="display: inline_block">
-  <br>
-  <code><img height="30" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="30" title="Nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"></code>
-  <code><img height="30" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
-  <code><img height="30" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-</div>
 
 ##
 
