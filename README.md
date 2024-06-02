@@ -2,7 +2,7 @@
 <div align="center" style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
   <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" width=400px />
     </a>
   </div>
   <div style="display: inline_block; margin-left: auto; margin-right: auto">
@@ -10,19 +10,19 @@
       <img
         align="center"
         height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni" width=400px
       />
     </a>
   </div>
-  <div style="display: inline_block; margin-left: auto; margin-right: auto">
+<!--   <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
       <img
         align="center"
         height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C" width=400px
       />
     </a>
-  </div>
+  </div> -->
 </div>
 
 <br>
