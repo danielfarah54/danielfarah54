@@ -6,6 +6,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazonwebservices)
 ![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=fafafa)
+![Prisma](https://img.shields.io/badge/-Prisma-090a15?logo=prisma)
+![MySQL](https://img.shields.io/badge/-MySQL-dfdfdf?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-699eca?logo=postgresql&labelColor=white)
 
 <a href="https://github.com/danielfarah54">
   <p align="center">
