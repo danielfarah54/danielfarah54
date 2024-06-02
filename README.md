@@ -5,24 +5,24 @@
       <img
         align="center"
         height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni" width=400px
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni" 
       />
     </a>
   </div>
   <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" width=400px />
-    </a>
-  </div>
-<!--   <div style="display: inline_block; margin-left: auto; margin-right: auto">
-    <a href="https://github.com/danielfarah54">
       <img
         align="center"
         height="157em"
-        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C" width=400px
+        src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=5&hide=C"
       />
     </a>
-  </div> -->
+  </div>
+  <div style="display: inline_block; margin-left: auto; margin-right: auto">
+    <a href="https://github.com/danielfarah54">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak"  />
+    </a>
+  </div>
 </div>
 
 <br>
