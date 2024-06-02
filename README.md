@@ -1,4 +1,12 @@
 ## Hello there!
+![TypeScript](https://img.shields.io/badge/-TypeScript-27609e?style=flat&logo=TypeScript&labelColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0d121c?style=flat&logo=Node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-070708?style=flat&logo=Nestjs&logoColor=ea285d)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazonwebservices)
+![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
+![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=fafafa)
+
 <!-- <div align="center" style="margin: 0 auto; max-width: 800px; display: flex; flex-wrap: wrap;">
   <div style="display: inline_block; margin-left: auto; margin-right: auto">
     <a href="https://github.com/danielfarah54">
