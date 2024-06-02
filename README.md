@@ -5,7 +5,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni" alt="GitHub Streak" />
     </a>
   </div>
-  <div>
+  <div style="display: inline_block">
     <a href="https://github.com/danielfarah54">
       <img
         align="center"
@@ -13,8 +13,6 @@
         src="https://github-readme-stats-git-master-danielfarah54.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni"
       />
     </a>
-  </div>
-  <div>
     <a href="https://github.com/danielfarah54">
       <img
         align="center"
