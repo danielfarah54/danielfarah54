@@ -15,7 +15,7 @@
 
 <a href="https://github.com/danielfarah54">
   <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=omni">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars,contribs&count_private=true&show_icons=true&theme=omni">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=omni&langs_count=6&hide=C">
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=danielfarah54&theme=omni">
   </p>
