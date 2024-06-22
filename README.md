@@ -1,17 +1,17 @@
 ## Hello there!
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-27609e?style=flat&logo=TypeScript&labelColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-0d121c?style=flat&logo=Node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-070708?style=flat&logo=Nestjs&logoColor=ea285d)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazonwebservices)
-![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
-![GitHub](https://img.shields.io/badge/-GitHub-161b22?logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-white?logo=bitbucket&logoColor=0d62dd)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=fafafa)
-![Prisma](https://img.shields.io/badge/-Prisma-090a15?logo=prisma)
+![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git&logoColor=f64d27)
+![GitHub](https://img.shields.io/badge/-GitHub-161b22?logo=github)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-dfdfdf?logo=mysql)
+![NestJS](https://img.shields.io/badge/-NestJS-070708?style=flat&logo=Nestjs&logoColor=ea285d)
+![Node.js](https://img.shields.io/badge/-Node.js-0d121c?style=flat&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-699eca?logo=postgresql&labelColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-090a15?logo=prisma)
+![TypeScript](https://img.shields.io/badge/-TypeScript-27609e?style=flat&logo=TypeScript&labelColor=white)
 
 <a href="https://github.com/danielfarah54">
   <p align="center">
